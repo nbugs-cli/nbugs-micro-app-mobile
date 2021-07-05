@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>dele</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="组件-提醒" transform="translate(-637.000000, -437.000000)" stroke="#979797" stroke-width="2">
+            <g id="Operational-feedback/Dialog-iOSA" transform="translate(53.000000, 410.000000)">
+                <g id="分组-4">
+                    <g transform="translate(598.000000, 41.000000) rotate(-315.000000) translate(-598.000000, -41.000000) translate(580.000000, 23.000000)">
+                        <g id="dele">
+                            <path d="M18,0.4 L18,35.6" id="直线"></path>
+                            <path d="M18,0.4 L18,35.6" id="直线" transform="translate(18.000000, 18.000000) rotate(-270.000000) translate(-18.000000, -18.000000) "></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

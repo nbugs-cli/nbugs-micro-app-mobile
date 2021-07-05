@@ -1,0 +1,55 @@
+.root {
+  :global {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+
+    .select-role-modal {
+      .btn-confirm {
+        background: #fe892b !important;
+      }
+
+      .role-item_active {
+        border-color: #fe892b !important;
+
+        .role-item_depart,
+        .role-item_name {
+          color: #fe892b !important;
+        }
+      }
+    }
+
+    .list-view-section-body > div:last-child::after {
+      display: block !important;
+    }
+
+    .am-list-body,
+    .nbugs-mobile-list-view-wrap {
+      background: transparent !important;
+    }
+
+    .am-list-body {
+      background-position: inherit;
+    }
+
+    .list-view-section-body {
+      border: 1px solid transparent;
+      box-sizing: border-box;
+    }
+
+    .select-role-wrap {
+      flex: none;
+    }
+
+    .children-wrap {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .btn-group > .btn {
+      position: relative !important;
+      line-height: 21px !important;
+    }
+  }
+}

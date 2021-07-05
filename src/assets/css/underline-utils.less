@@ -1,0 +1,40 @@
+// 添加在前面
+.line-top {
+  position: relative;
+}
+.line-top-before,
+.line-top:before {
+  content: ' ';
+  position: absolute;
+  background-color: #dfdfdf;
+  display: block;
+  z-index: 1;
+  top: 0;
+  right: auto;
+  left: 0;
+  bottom: auto;
+  width: 100%;
+  height: 1px;
+  transform-origin: 50% 100%;
+  transform: scaleY(0.5);
+}
+// 添加在后面
+.line-bottom {
+  position: relative;
+}
+.line-bottom-after,
+.line-bottom:after {
+  content: ' ';
+  position: absolute;
+  background-color: #dfdfdf;
+  display: block;
+  z-index: 1;
+  top: auto;
+  right: auto;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 1px;
+  transform-origin: 50% 100%;
+  transform: scaleY(0.5);
+}

@@ -1,0 +1,8 @@
+[defaults]
+url = http://47.110.165.108:9000
+org = sentry
+project = paz
+
+
+[auth]
+token = fae1d54165c54ec589aa467043e24eadb960378dcc16411f910e69c02f1dee93
