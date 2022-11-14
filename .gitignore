@@ -14,10 +14,7 @@
 .DS_Store
 
 # umi
-.umi
-.umi-production
-.idea
-
-.history
-
-mock
+/src/.umi
+/src/.umi-production
+/src/.umi-test
+/.env.local
